@@ -129,7 +129,11 @@ This project can be deployed on any static hosting platform:
 
 ## 📸 Preview
 
-> Add a screenshot of your portfolio here.
+<img width="1920" height="1200" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/d31e19ff-d690-4acc-9b0d-88496eef944d" />
+<img width="1920" height="1200" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/a7c0943d-e78e-4482-8dc0-dce93d06a786" />
+<img width="1920" height="1200" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/e42c6181-f0c5-44d9-b29a-bedc3a18a142" />
+<img width="1920" height="1200" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/a641508e-3ae9-4798-8fda-3b1b9d30aa81" />
+
 
 Example:
 
